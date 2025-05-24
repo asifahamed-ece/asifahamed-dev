@@ -12,8 +12,9 @@
 - IoT (ESP32, Sensors, Wireless Modules)
 
 ## 💼 Projects
-- **Obstacle-Aware Rover** – Arduino-based rover with ultrasonic sensor for autonomous navigation
-- **Automatic Braking System** *(in progress)* – A vehicle safety project using Arduino and sensors
+- **Obstacle-Aware Rover** – Arduino-based rover with ultrasonic sensor for autonomous navigation.
+- **Automatic Braking System** – A vehicle safety project using Arduino and sensors.
+- **Dual-Mode Smart Car** - A Car that can Operate in a Manual Mode and can be Switched to Automatic to find it's own Path and Behave Autonomously.
 - **Pathfinder Pro** – A basic satellite tracking concept using sensors and motors *(planned)*
 
 > More projects coming soon...
